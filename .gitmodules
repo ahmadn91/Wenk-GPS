@@ -1,0 +1,3 @@
+[submodule "WenkGPS-ubuntu"]
+	path = WenkGPS-ubuntu
+	url = https://github.com/ahmadn91/WenkGPS-ubuntu.git
