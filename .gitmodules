@@ -1,3 +1,8 @@
 [submodule "WenkGPS-ubuntu"]
 	path = WenkGPS-ubuntu
 	url = https://github.com/ahmadn91/WenkGPS-ubuntu.git
+
+[submodule "ahmadn91/ticket_form"]
+	path = ahmadn91/ticket_form
+	url = git@github.com:ahmadn91/ticket_form.git
+	branch = master
